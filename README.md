@@ -8,7 +8,7 @@ This project implements a notification system using JavaScript, allowing dynamic
 Here is a video demonstration of the notification functionality:  
 
 <video width="400" controls>  
-  <source src="./review.mp4" type="video/mp4">  
+  <source src="[./review.mp4](https://github.com/user-attachments/assets/1eec2aa4-24d8-46ef-b162-58a4bed43659)" type="video/mp4">  
   Your browser does not support the video tag.  
 </video>  
 
