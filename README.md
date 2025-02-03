@@ -13,7 +13,12 @@ Here is a video demonstration of the notification functionality:
 </video>  
 
 ### Usage  
-To use the notification feature, call `showNotification('Your message here')` in your JavaScript code.  
+click bottun 
+
+### Notifications 
+- success  
+- error 
+- warning
 
 ### Features  
 - Dynamic notifications based on user actions.  
