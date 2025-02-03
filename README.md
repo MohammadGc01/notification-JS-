@@ -7,13 +7,13 @@ This project implements a notification system using JavaScript, allowing dynamic
 ### Demonstration  
 Here is a video demonstration of the notification functionality:  
 
-<video width="600" controls>  
+<video width="400" controls>  
   <source src="./review.mp4" type="video/mp4">  
   Your browser does not support the video tag.  
 </video>  
 
 ### Usage  
-click bottun 
+click button to see notif
 
 ### Notifications 
 - success  
