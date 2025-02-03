@@ -1,0 +1,71 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    transition: all 0.9s;
+}
+button{
+    margin: 5px;
+    padding: 2px;
+    border-radius: 10px;
+    
+}
+.success-notification, .error-notification, .warning-notification{
+    width: 185px;
+    height: 35px;
+    border-radius: 20px;
+    margin: 20px;
+    filter: drop-shadow( #333 0px 0px 5px);
+}
+
+.success-notification {
+   background-color: rgba(0, 255, 0, 0.644);
+}
+.error-notification{
+   background-color: rgba(255, 0, 0, 0.664);
+   color: white;
+}
+.warning-notification{
+    background-color: #ffe603;
+}
+
+.warning-notification img{
+    filter: drop-shadow(#252522 0px 0px 3px);
+    width: 25px;
+    height: 25px;
+    margin-left: 155px;
+    margin-top: -22px;
+    position: absolute;
+}
+
+h5{
+    padding-top: 6px;
+    padding-left: 10px;
+}
+
+.success-notification img , .error-notification img{
+    width: 25px;
+    height: 25px;
+    margin-left: 155px;
+    margin-top: -20px;
+    position: absolute;
+    filter: drop-shadow( #333 0px 0px 3px);
+}
+
+.delete-notification{
+    margin-left: -185px;
+    opacity: 0;
+     transition: all 0.9s;
+}
+.icon-back{
+    position: absolute;
+    background-color: white;
+    width: 36px;
+    height: 35px;
+    border-radius: 20px;
+    margin-top: -25px;
+    margin-left: 149px;
+    filter: drop-shadow( #333 0px 0px 3px);
+}
